@@ -34,7 +34,7 @@ Kimi Claw 可以在云端 OpenClaw 工作区中克隆、检查、构建并继续
 可在 Kimi Claw 终端中先执行：
 
 ```bash
-git clone <GitHub 仓库地址>
+git clone https://github.com/yujieren581-ctrl/tarot-sanctuary-mvp.git
 cd tarot-sanctuary-mvp
 npm ci
 npm run lint
@@ -58,4 +58,3 @@ npm run build
 - `db/`：D1/Drizzle 数据访问与表定义
 - `drizzle/`：数据库迁移
 - `public/`：静态资源
-
